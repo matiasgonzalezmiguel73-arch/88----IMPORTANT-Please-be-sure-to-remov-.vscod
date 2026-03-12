@@ -1,3 +1,3 @@
-# 88----IMPORTANT-Please-be-sure-to-remov-.vscod
+ # 88----IMPORTANT-Please-be-sure-to-remov-.vscod
 function calculateDaysBetweenDates(begin, end) 
 https://github.com/microsoft/copilot-intellij-feedback/commit/0867ac3e5e575e1a74d30d9da22b925c89a32044https://github.com/microsoft/copilot-intellij-feedback/commit/69a9e7bf564a73d51f7fb63d5dc8d7e58ae0900chttps://github.com/microsoft/copilot-intellij-feedback/commit/9bdc6d6f1bbb36558a0e0d271075d5f6a3c289b4https://github.com/microsoft/copilot-intellij-feedback/commit/e4860a6aeb297c4c8edd63ad6eaf83cdd2bc4cffBienvenido al portapapeles de Gboard; todo texto que copies se guardará aquí.Para pegar un clip en el cuadro de texto, tócalo.Utiliza el ícono de edición para fijar, agregar o borrar clips:Para fijar un clip, manténlo presionado. Después de una hora, se borrarán todos los clips que no estén fijados.
